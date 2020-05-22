@@ -6,5 +6,7 @@ pkg install python
 pkg install git 
 pkg install python2
 git clone https://www.github.com/Sac56/Pendu
+cd Pendu
+python2 Pendu.py
 Username:- Pendu
 password:- Pendu
